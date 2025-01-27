@@ -1,0 +1,6 @@
+├── .github/
+│   └── workflows/
+│       └── update.yml      # GitHub Actions配置文件
+├── crawler.py             # 爬虫主程序
+├── index.html             # 前端页面
+└── requirements.txt       # Python依赖
